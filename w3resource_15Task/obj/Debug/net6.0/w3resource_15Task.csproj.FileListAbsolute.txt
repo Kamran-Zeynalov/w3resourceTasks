@@ -1,0 +1,14 @@
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\bin\Debug\net6.0\w3resource_15Task.exe
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\bin\Debug\net6.0\w3resource_15Task.deps.json
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\bin\Debug\net6.0\w3resource_15Task.runtimeconfig.json
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\bin\Debug\net6.0\w3resource_15Task.dll
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\bin\Debug\net6.0\w3resource_15Task.pdb
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\w3resource_15Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\w3resource_15Task.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\w3resource_15Task.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\w3resource_15Task.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\w3resource_15Task.dll
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\refint\w3resource_15Task.dll
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\w3resource_15Task.pdb
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\w3resource_15Task.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\w3resource_15Task\w3resource_15Task\obj\Debug\net6.0\ref\w3resource_15Task.dll
